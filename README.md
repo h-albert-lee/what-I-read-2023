@@ -25,3 +25,5 @@ data2vec : A general Framework for self-supervised learning in speech, vision, a
 Transformers for limit order books (ArXiv 2020)
 
 Deep Learning Modelling of the limit order book : a comparative perspective (ArXiv 2020)
+
+Decision Transformer : Reinforcement Learning via Sequence Modeling (ArXiv 2021)
