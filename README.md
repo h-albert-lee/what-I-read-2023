@@ -2,7 +2,7 @@
 Name of papers what I've read in 2023
 
 ## February
-### Main Interest : Time Series Pretraining
+### Main Interest : Time Series Pretraining, LOB
 
 TS-BERT : Time Series Anomaly Detection via Pre-training Model BERT (ICCS 2021)
 
@@ -21,3 +21,5 @@ Should you Mask 15% in Masked Language Modeling? (ArXiv, 2022)
 Masked Language Modeling and the Distributional Hypothesis:Order Word Matters Pre-training for Little (EMNLP 2021)
 
 data2vec : A general Framework for self-supervised learning in speech, vision, and language (ArXiv 2022)
+
+Transformers for limit order books (ArXiv 2020)
