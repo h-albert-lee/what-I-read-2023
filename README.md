@@ -23,3 +23,5 @@ Masked Language Modeling and the Distributional Hypothesis:Order Word Matters Pr
 data2vec : A general Framework for self-supervised learning in speech, vision, and language (ArXiv 2022)
 
 Transformers for limit order books (ArXiv 2020)
+
+Deep Learning Modelling of the limit order book : a comparative perspective (ArXiv 2020)
