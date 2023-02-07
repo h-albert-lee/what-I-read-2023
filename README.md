@@ -28,4 +28,4 @@ Deep Learning Modelling of the limit order book : a comparative perspective (ArX
 
 Decision Transformer : Reinforcement Learning via Sequence Modeling (ArXiv 2021)
 
-Deep Learning Book : Representation Learning (Chapter 15)
+Deep Learning Book : Ch.15 Representation Learning (MIT Press, 2016)
