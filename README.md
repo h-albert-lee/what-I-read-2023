@@ -37,3 +37,5 @@ PrimeNet:Pre-Training for Irregular Multivariate Time Series (ArXiv 2023)
 Learning to simulate realistic limit order book markets grom data as a World Agent (ArXiv 2022)
 
 Forecasting Quoted Depth with the Limit Order Book (the journal of frontiers in artificial intelligence 2021)
+
+Multi-Horizon Forecasting for Limit Order Books: Novel Deep Learning Approaches and Hardware Acceleration using Intelligent Processing units(ArXiv 2021)
