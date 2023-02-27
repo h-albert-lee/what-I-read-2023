@@ -41,3 +41,11 @@ Forecasting Quoted Depth with the Limit Order Book (Journal of frontiers in arti
 Multi-Horizon Forecasting for Limit Order Books: Novel Deep Learning Approaches and Hardware Acceleration using Intelligent Processing units(ArXiv 2021)
 
 Effects of Limit Order Book Information Level on Market Stability Metrics (Journal of Economic Interaction and Coordination 2015)
+
+Intraday Seasonalities and Nonstationarity of Trading Volume in Financial Markets : Individual and Cross-Sectional Features (PLoS ONE, 2016)
+
+Intraday Volume Percentages Forecasting Usinga Dynamic SVM-based Approach (Journal of system science and complexity, 2017)
+
+Volume Prediction With Neural Networks (Journal of frontiers in artificial intelligence, 2019)
+
+Predicting Daily Trading Volume via Various Hidden states (ArXiv 2021)
