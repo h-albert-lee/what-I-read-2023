@@ -56,3 +56,5 @@ Predicting Daily Trading Volume via Various Hidden states (ArXiv 2021)
 Self-Supervised Multimodal Opinion Summarization (ArXiv 2021)
 
 Are Transformers Effective for Time Series Forecasting? (ArXiv 2022)
+
+Longformer: The Long-Document Transformer(ArXiv 2020)
