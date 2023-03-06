@@ -51,7 +51,7 @@ Volume Prediction With Neural Networks (Journal of frontiers in artificial intel
 Predicting Daily Trading Volume via Various Hidden states (ArXiv 2021)
 
 ## March
-### Main Interest : Multimodal learning
+### Main Interest : Multimodal learning, Encoder-Decoder models
 
 Self-Supervised Multimodal Opinion Summarization (ArXiv 2021)
 
