@@ -54,3 +54,5 @@ Predicting Daily Trading Volume via Various Hidden states (ArXiv 2021)
 ### Main Interest : Multimodal learning
 
 Self-Supervised Multimodal Opinion Summarization (ArXiv 2021)
+
+Are Transformers Effective for Time Series Forecasting? (ArXiv 2022)
