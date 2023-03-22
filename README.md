@@ -58,3 +58,5 @@ Self-Supervised Multimodal Opinion Summarization (ArXiv 2021)
 Are Transformers Effective for Time Series Forecasting? (ArXiv 2022)
 
 Longformer: The Long-Document Transformer(ArXiv 2020)
+
+Does Synthetic Data Generation of LLMs Help Clinical Text Mining?(ArXiv 2023)
