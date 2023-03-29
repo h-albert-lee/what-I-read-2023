@@ -60,3 +60,7 @@ Are Transformers Effective for Time Series Forecasting? (ArXiv 2022)
 Longformer: The Long-Document Transformer(ArXiv 2020)
 
 Does Synthetic Data Generation of LLMs Help Clinical Text Mining?(ArXiv 2023)
+
+Language is not all you need : Aligning perception with lanugage models (ArXiv 2023)
+
+ChatGPT outperforms crowd-workers for text-annotation tasks (ArXiv 2023)
