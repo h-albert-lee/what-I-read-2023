@@ -64,3 +64,5 @@ Does Synthetic Data Generation of LLMs Help Clinical Text Mining?(ArXiv 2023)
 Language is not all you need : Aligning perception with lanugage models (ArXiv 2023)
 
 ChatGPT outperforms crowd-workers for text-annotation tasks (ArXiv 2023)
+
+A sequence to sequence transformer data logic experiment (ACL 2021)
