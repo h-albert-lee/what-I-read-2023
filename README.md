@@ -65,4 +65,7 @@ Language is not all you need : Aligning perception with lanugage models (ArXiv 2
 
 ChatGPT outperforms crowd-workers for text-annotation tasks (ArXiv 2023)
 
+## April
+### Main Interest : Multimodal learning, Encoder-Decoder models 
+
 A sequence to sequence transformer data logic experiment (ACL 2021)
