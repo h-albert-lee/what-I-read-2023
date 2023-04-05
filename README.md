@@ -69,3 +69,5 @@ ChatGPT outperforms crowd-workers for text-annotation tasks (ArXiv 2023)
 ### Main Interest : Multimodal learning, Encoder-Decoder models 
 
 A sequence to sequence transformer data logic experiment (ACL 2021)
+
+No Stock is an Island : Learning Internal and Relational Attributes of Stocks with Contrastive Learning (ACL 2022)
