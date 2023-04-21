@@ -66,10 +66,12 @@ Language is not all you need : Aligning perception with lanugage models (ArXiv 2
 ChatGPT outperforms crowd-workers for text-annotation tasks (ArXiv 2023)
 
 ## April
-### Main Interest : Multimodal learning, Encoder-Decoder models 
+### Main Interest : Multimodal learning, Large Language Models 
 
 A sequence to sequence transformer data logic experiment (ACL 2021)
 
 No Stock is an Island : Learning Internal and Relational Attributes of Stocks with Contrastive Learning (ACL 2022)
 
 LLaMA: Open and Efficient Foundation Language Models (ArXiv 2023)
+
+Scaling Instruction-Finetuned language models (ArXiv 2022)
