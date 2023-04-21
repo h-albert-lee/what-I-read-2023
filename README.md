@@ -71,3 +71,5 @@ ChatGPT outperforms crowd-workers for text-annotation tasks (ArXiv 2023)
 A sequence to sequence transformer data logic experiment (ACL 2021)
 
 No Stock is an Island : Learning Internal and Relational Attributes of Stocks with Contrastive Learning (ACL 2022)
+
+LLaMA: Open and Efficient Foundation Language Models (ArXiv 2023)
