@@ -78,4 +78,4 @@ Scaling Instruction-Finetuned language models (ArXiv 2022)
 
 Training language models to follow instructions with human feedback (ArXiv 2022)
 
-GPT3Mix: Leveraging Large-Scale Language Modelf sor Text Augmentation (EMNLP 2021)
+GPT3Mix: Leveraging Large-Scale Language Model for Text Augmentation (EMNLP 2021)
