@@ -82,3 +82,26 @@ GPT3Mix: Leveraging Large-Scale Language Model for Text Augmentation (EMNLP 2021
 
 ## May
 ### Main Interest : Large Language Models, Instruction Tuning
+
+Can Chatgpt Forecast Stock Price Movements? Return Predictability and Large lanugage Models (ArXiv 2023)
+
+Pangu-α: Large-scale autoregressive pretrained chinese language models with auto-parallel computation (ArXiv 2021)
+
+CPM-2: large-scale cost-effective pre-trained language models (ArXiv 2021)
+
+GLM-130B: an open bilingual pre-trained model (ArXiv 2022)
+
+BLOOM: A 176b-parameter open-access multilingual language model (ArXiv 2022)
+
+ERNIE 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation (ArXiv 2021)
+
+Training compute-optimal large language models (ArXiv 2022)
+
+Every Author as First Author (ArXiv 2023)
+
+
+
+
+
+
+
