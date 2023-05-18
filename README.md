@@ -99,6 +99,7 @@ Training compute-optimal large language models (ArXiv 2022)
 
 Every Author as First Author (ArXiv 2023)
 
+Sparks of Artificial General Intelligence : Early Experiemnts with GPT-4 (ArXiv 2023)
 
 
 
