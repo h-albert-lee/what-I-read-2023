@@ -101,6 +101,14 @@ Every Author as First Author (ArXiv 2023)
 
 Sparks of Artificial General Intelligence : Early Experiemnts with GPT-4 (ArXiv 2023)
 
+## June
+### Main Interest : Large Language Models, Instruction Tuning
+
+The Flan Collection: Designing Data and Methods for Effective Instruction Tuning (ArXiv 2023)
+
+Emergent Abilities of Large Language Models (Transactions on Machine Learning Research 2022)
+
+
 
 
 
