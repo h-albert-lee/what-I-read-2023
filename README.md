@@ -108,7 +108,7 @@ The Flan Collection: Designing Data and Methods for Effective Instruction Tuning
 
 Emergent Abilities of Large Language Models (Transactions on Machine Learning Research 2022)
 
-
+Faith and Fate: Limits of Transformers on Compositionality(ArXiv 2023)
 
 
 
