@@ -1,5 +1,5 @@
 # what-I-read-2023
-Name of papers what I've read in 2023
+Name of papers I've read in 2023
 
 ## February
 ### Main Interest : Time Series Pretraining, LOB
