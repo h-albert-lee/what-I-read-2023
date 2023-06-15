@@ -112,5 +112,5 @@ Faith and Fate: Limits of Transformers on Compositionality(ArXiv 2023)
 
 Frequency of Geographical Names and Sentiment Analysis of Eighteenth and Nineteenth Century English Novels through Moretti’s “Distant Reading” (KOAJ 2021)
 
-
+FinGPT: Open-Source Financial Large Language Models (ArXiv 2023)
 
