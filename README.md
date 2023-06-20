@@ -114,3 +114,6 @@ Frequency of Geographical Names and Sentiment Analysis of Eighteenth and Ninetee
 
 FinGPT: Open-Source Financial Large Language Models (ArXiv 2023)
 
+Language Models Can See: Plugging Visual Controls in Text Generation (ArXiv 2022)
+
+LIMA: Less Is More for Alignment (ArXiv 2023)
