@@ -121,3 +121,7 @@ LIMA: Less Is More for Alignment (ArXiv 2023)
 Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis (ICML 2023)
 
 Textbooks are all you need (ArXiv 2023)
+
+## July
+### Main Interest : Model Parallelism, Evaluation of Large Language Models
+
