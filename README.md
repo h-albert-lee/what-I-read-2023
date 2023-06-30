@@ -119,3 +119,5 @@ Language Models Can See: Plugging Visual Controls in Text Generation (ArXiv 2022
 LIMA: Less Is More for Alignment (ArXiv 2023)
 
 Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis (ICML 2023)
+
+Textbooks are all you need (ArXiv 2023)
