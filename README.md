@@ -125,3 +125,5 @@ Textbooks are all you need (ArXiv 2023)
 ## July
 ### Main Interest : Model Parallelism, Evaluation of Large Language Models
 
+Model-Agnostic Meta Learning for Natural Language Understanding task in finance (IJCAI 2023)
+
