@@ -128,3 +128,5 @@ Textbooks are all you need (ArXiv 2023)
 Model-Agnostic Meta Learning for Natural Language Understanding task in finance (IJCAI 2023)
 
 Inverse Scaling : When Bigger isn't Better (ArXiv 2023)
+
+LLAMA 2: Open Foundation and Fine-Tuned Chat Models (Meta Blog 2023)
