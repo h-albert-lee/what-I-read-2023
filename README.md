@@ -1,7 +1,7 @@
 # what-I-read-2023
 Name of papers I've read in 2023
 
-## February
+## January + February
 ### Main Interest : Time Series Pretraining, LOB
 
 TS-BERT : Time Series Anomaly Detection via Pre-training Model BERT (ICCS 2021)
