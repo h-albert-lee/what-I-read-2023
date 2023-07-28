@@ -134,3 +134,5 @@ LLAMA 2: Open Foundation and Fine-Tuned Chat Models (Meta Blog 2023)
 How is ChatGPT's behavior changing over time? (ArXiv 2023)
 
 Communicative Agents for Software Development (ArXiv 2023)
+
+Open-WikiTable: Dataset for Open Domain Question Answering with Complex Reasoning over Table (ArXiv 2023)
