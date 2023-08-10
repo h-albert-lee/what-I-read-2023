@@ -136,3 +136,8 @@ How is ChatGPT's behavior changing over time? (ArXiv 2023)
 Communicative Agents for Software Development (ArXiv 2023)
 
 Open-WikiTable: Dataset for Open Domain Question Answering with Complex Reasoning over Table (ArXiv 2023)
+
+## August
+### Main Interest : Model Parallelism, Evaluation of Large Language Models
+
+A Survey on Evaluation of Large Language Models (ArXiv 2023)
