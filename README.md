@@ -141,3 +141,7 @@ Open-WikiTable: Dataset for Open Domain Question Answering with Complex Reasonin
 ### Main Interest : Model Parallelism, Evaluation of Large Language Models
 
 A Survey on Evaluation of Large Language Models (ArXiv 2023)
+
+A Survey of Large Language Models (ArXiv 2023)
+
+FinEval : A Chinese Financial Domain Knowledge Evaluation Benchmark for Large Language Models (ArXiv 2023)
