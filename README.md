@@ -145,3 +145,5 @@ A Survey on Evaluation of Large Language Models (ArXiv 2023)
 A Survey of Large Language Models (ArXiv 2023)
 
 FinEval : A Chinese Financial Domain Knowledge Evaluation Benchmark for Large Language Models (ArXiv 2023)
+
+Consciousness in Artificial Intelligence : Insights from the Science of Consciousness (ArXiv 2023)
