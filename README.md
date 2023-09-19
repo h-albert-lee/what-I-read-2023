@@ -158,3 +158,5 @@ Large Language Models as Optimizers (ArXiv 2023)
 Best humans still outperform artificial intelligence in acreative divergent thinking task (Nature 2023)
 
 Predictably Unequal? The Effects of Machine Learning on Credit Markets (Journal of Finance 2020)
+
+Languages Models are multilingual Chain-of-Thought Reasoners (ArXiv 2022)
