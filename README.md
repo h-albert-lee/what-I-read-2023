@@ -160,3 +160,8 @@ Best humans still outperform artificial intelligence in acreative divergent thin
 Predictably Unequal? The Effects of Machine Learning on Credit Markets (Journal of Finance 2020)
 
 Languages Models are multilingual Chain-of-Thought Reasoners (ArXiv 2022)
+
+## October
+### Main Interest : Instruction Tuning, Evaluation of Large Language Models
+
+Towards Monosemanticity: Decomposing Language Models With Dictionary Learning (Anthropic Blog, 2023)
