@@ -162,6 +162,8 @@ Predictably Unequal? The Effects of Machine Learning on Credit Markets (Journal 
 Languages Models are multilingual Chain-of-Thought Reasoners (ArXiv 2022)
 
 ## October
-### Main Interest : Instruction Tuning, Evaluation of Large Language Models
+### Main Interest : Understanding Behaviors of Large Languge Models
 
 Towards Monosemanticity: Decomposing Language Models With Dictionary Learning (Anthropic Blog, 2023)
+
+Lost in the Middle: How Language Models Use Long Contexts (ArXiv 2023)
