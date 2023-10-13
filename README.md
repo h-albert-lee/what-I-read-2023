@@ -167,3 +167,5 @@ Languages Models are multilingual Chain-of-Thought Reasoners (ArXiv 2022)
 Towards Monosemanticity: Decomposing Language Models With Dictionary Learning (Anthropic Blog, 2023)
 
 Lost in the Middle: How Language Models Use Long Contexts (ArXiv 2023)
+
+Mistral7B (ArXiv 2023)
