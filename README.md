@@ -169,3 +169,5 @@ Towards Monosemanticity: Decomposing Language Models With Dictionary Learning (A
 Lost in the Middle: How Language Models Use Long Contexts (ArXiv 2023)
 
 Mistral7B (ArXiv 2023)
+
+Quintet Volume Projection (ArXiv 2019)
