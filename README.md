@@ -173,3 +173,8 @@ Mistral7B (ArXiv 2023)
 Quintet Volume Projection (ArXiv 2019)
 
 Can large language models provide useful feedback on research papers? A large-scale empirical analysis (ArXiv 2023)
+
+## November
+### Main Interest : Travel
+
+Pretraining on the Test Set is all you need (ArXiv 2023)
