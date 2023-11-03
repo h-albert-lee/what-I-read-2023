@@ -178,3 +178,6 @@ Can large language models provide useful feedback on research papers? A large-sc
 ### Main Interest : Travel
 
 Pretraining on the Test Set is all you need (ArXiv 2023)
+
+Re-Reading Improves Reasoning in Language Models (ArXiv 2023)
+
