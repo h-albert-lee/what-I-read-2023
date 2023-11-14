@@ -185,3 +185,5 @@ What's in my big data? (ArXiv 2023)
 
 Large Language Models are Zero-shot Time Series Forecasters (Neurips 2023)
 
+Generative Model Using Knowledge Graph for Document-Grounded Conversations (Journal of Applied Science 2022)
+
