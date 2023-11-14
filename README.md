@@ -187,3 +187,5 @@ Large Language Models are Zero-shot Time Series Forecasters (Neurips 2023)
 
 Generative Model Using Knowledge Graph for Document-Grounded Conversations (Journal of Applied Science 2022)
 
+Large Language Models are not robust multiple choice selectors (ArXiv 2023)
+
