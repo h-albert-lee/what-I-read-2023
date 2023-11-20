@@ -190,3 +190,5 @@ Generative Model Using Knowledge Graph for Document-Grounded Conversations (Jour
 Large Language Models are not robust multiple choice selectors (ArXiv 2023)
 
 The Reversal Curse : LLMs trained on "A is B" fail to learn "B is A" (ArXiv 2023)
+
+TimeGPT-1 (ArXiv 2023)
