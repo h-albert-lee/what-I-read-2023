@@ -194,3 +194,5 @@ The Reversal Curse : LLMs trained on "A is B" fail to learn "B is A" (ArXiv 2023
 TimeGPT-1 (ArXiv 2023)
 
 Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions (ArXiv 2023)
+
+Multimodal Persona Based Generation of Comic Dialogs (ACL 2023)
