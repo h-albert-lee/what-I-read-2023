@@ -198,3 +198,7 @@ Large Language Models Sensitivity to The Order of Options in Multiple-Choice Que
 Multimodal Persona Based Generation of Comic Dialogs (ACL 2023)
 
 eCLIP: Large_scale Vision-Language Representation Learning in E-commerce (CIKM 2022)
+
+VWAP Strategies (Transaction Performance 2002)
+
+DynamicESG : A Dataset for Dunamically Unearthing ESG Ratings from NEws Articles (CIKM 2023)
