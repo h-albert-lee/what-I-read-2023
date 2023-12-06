@@ -202,3 +202,8 @@ eCLIP: Large_scale Vision-Language Representation Learning in E-commerce (CIKM 2
 VWAP Strategies (Transaction Performance 2002)
 
 DynamicESG : A Dataset for Dunamically Unearthing ESG Ratings from NEws Articles (CIKM 2023)
+
+## December
+### Main Interest : Multimodality
+
+InstructBLIP : Towards General-purpose Vision-Language Models with Instruction Tuning (ArXiv 2023)
