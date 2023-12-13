@@ -207,3 +207,6 @@ DynamicESG : A Dataset for Dunamically Unearthing ESG Ratings from NEws Articles
 ### Main Interest : Multimodality
 
 InstructBLIP : Towards General-purpose Vision-Language Models with Instruction Tuning (ArXiv 2023)
+
+Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models (ArXiv 2023)
+
