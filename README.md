@@ -213,3 +213,5 @@ Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Lan
 Are Emergent Abilities of Large Language Models a Mirage? (Neurips 2023)
 
 ECLIPSE : Expediting Contrastive Language-Image Pretraining via Self-Distilled Encoders (AAAI 2024)
+
+The Grand Illusion: The Myth of Software Portability and Implications for ML Progress. (ArXiv 2023)
